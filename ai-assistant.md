@@ -111,6 +111,7 @@ The AI assistant has the following limitations:
 * Actions like creating resources or making changes within your account can't be completed by the AI assistant.
 * Answers from the previous query and response are not used to answer subsequent queries.
 * If you encounter any styling issues in the console, use the **Open menu** icon ![Open menu icon](../icons/icon_hamburger.svg "Open menu") > **Clear history** option, and refresh the page.
+* On Firefox, the functionality to ask questions using speech to text is unavailable.
 
 
 
